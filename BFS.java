@@ -2,11 +2,6 @@ package bfs;
 import java.util.LinkedList;
 import java.util.Queue;
 
-/**
- *
- * @author faaareell
- */
-
 public class BFS {
 
     private int node;
